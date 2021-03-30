@@ -4,5 +4,5 @@ radius = diameter / 2
 area = PI * radius * radius
 circumference = 2 * PI * radius
 
-print(" Area = %.2f" % area) 
-print(" Circumference = %.2f" % circumference) 
+print(" Area = %.2f" % area)
+print(" Circumference = %.2f" % circumference)
